@@ -1,0 +1,301 @@
+No.,English Phrase,Russian Translation
+1,House,Дом
+2,Apartment,Квартира
+3,Room,Комната
+4,Living Room,Гостиная
+5,Bedroom,Спальня
+6,Kitchen,Кухня
+7,Bathroom,Ванная
+8,Dining Room,Столовая
+9,Office,Офис
+10,Study,Кабинет
+11,Attic,Чердак
+12,Basement,Подвал
+13,Laundry Room,Прачечная
+14,Garage,Гараж
+15,Yard,Двор
+16,Garden,Сад
+17,Patio,Патио
+18,Balcony,Балкон
+19,Deck,Терраса
+20,Front Porch,Порог
+21,Backyard,Задний двор
+22,Foyer,Вестибюль
+23,Entryway,Вход
+24,Hallway,Прихожая
+25,Staircase,Лестница
+26,Closet,Шкаф
+27,Wardrobe,Гардероб
+28,Cabinet,Шкаф
+29,Drawer,Ящик
+30,Shelf,Полка
+31,Bookshelf,Книжная полка
+32,Pantry,Кладовая
+33,Cellar,Подвал
+34,Counter,Прилавок
+35,Table,Стол
+36,Coffee Table,Журнальный столик
+37,Dining Table,Обеденный стол
+38,Desk,Письменный стол
+39,Side Table,Боковой столик
+40,End Table,Конечный столик
+41,Kitchen Island,Кухонный остров
+42,Chair,Стул
+43,Armchair,Кресло
+44,Sofa,Диван
+45,Couch,Кушетка
+46,Loveseat,Маленький диван
+47,Recliner,Кресло-реклайнер
+48,Stool,Табурет
+49,Bench,Скамейка
+50,Ottoman,Пуф
+51,Bed,Кровать
+52,King Bed,Королевская кровать
+53,Queen Bed,Кровать Queen
+54,Double Bed,Двуспальная кровать
+55,Twin Bed,Двухъярусная кровать
+56,Bunk Bed,Двухъярусная кровать
+57,Crib,Детская кроватка
+58,Bassinet,Колыбель
+59,Dresser,Комод
+60,Chest of Drawers,Комод с ящиками
+61,Armoire,Гардероб
+62,Nightstand,Тумбочка
+63,TV Stand,ТВ-тумба
+64,Bookcase,Книжный шкаф
+65,Desk Chair,Стул для письменного стола
+66,Rocking Chair,Качающееся кресло
+67,High Chair,Стульчик для кормления
+68,Bar Stool,Барный стул
+69,Step Stool,Ступенька
+70,Mirror,Зеркало
+71,Floor Mirror,Полноразмерное зеркало
+72,Wall Mirror,Настенное зеркало
+73,Curtain,Занавес
+74,Blinds,Жалюзи
+75,Shutters,Ставни
+76,Valance,Ламбрекен
+77,Rug,Ковер
+78,Carpet,Ковровое покрытие
+79,Doormat,Коврик на порог
+80,Runner,Пробежка
+81,Bedspread,Покрывало
+82,Duvet,Одеяло
+83,Comforter,Комфортер
+84,Blanket,Одеяло
+85,Throw,Плед
+86,Pillow,Подушка
+87,Pillowcase,Наволочка
+88,Fitted Sheet,Простынь на резинке
+89,Flat Sheet,Простынь на резинке
+90,Bed Skirt,Пододеяльник
+91,Quilt,Подстелка
+92,Sham,Декоративная наволочка
+93,Throw Pillow,Декоративная подушка
+94,Cushion,Подушка
+95,Tablecloth,Скатерть
+96,Napkin,Салфетка
+97,Placemat,Подставка под тарелку
+98,Coaster,Подставка под стакан
+99,Dining Chair,Стул для обеденного стола
+100,Highchair,Стульчик для кормления
+101,Bench,Скамейка
+102,Booster Seat,Бустер для стула
+103,Tray,Поднос
+104,Place Setting,Постановка стола
+105,Flatware,Столовые приборы
+106,Cutlery,Столовые приборы
+107,Fork,Вилка
+108,Knife,Нож
+109,Spoon,Ложка
+110,Teaspoon,Чайная ложка
+111,Tablespoon,Столовая ложка
+112,Salad Fork,Вилка для салата
+113,Dessert Spoon,Десертная ложка
+114,Butter Knife,Нож для масла
+115,Steak Knife,Стейковый нож
+116,Silverware,Сервировочные приборы
+117,Chopsticks,Палочки для еды
+118,Place Mat,Подставка под тарелку
+119,Placemat,Подставка под тарелку
+120,Coaster,Подставка под стакан
+121,Drinking Glass,Стакан для напитков
+122,Tumbler,Стакан
+123,Wine Glass,Бокал для вина
+124,Champagne Flute,Бокал для шампанского
+125,Martini Glass,Бокал для мартини
+126,Cocktail Glass,Бокал для коктейля
+127,Highball Glass,Бокал для хайбола
+128,Whiskey Glass,Бокал для виски
+129,Beer Mug,Пивная кружка
+130,Beer Stein,Пивной кувшин
+131,Coffee Mug,Кофейная кружка
+132,Tea Cup,Чашка для чая
+133,Teapot,Чайник
+134,Coffee Maker,Кофеварка
+135,Espresso Machine,Кофемашина
+136,Electric Kettle,Электрический чайник
+137,Blender,Блендер
+138,Juicer,Соковыжималка
+139,Toaster,Тостер
+140,Toaster Oven,Электрическая духовка
+141,Microwave,Микроволновая печь
+142,Stove,Плита
+143,Oven,Духовка
+144,Range,Плита с духовкой
+145,Cooktop,Варочная поверхность
+146,Hood,Вытяжка
+147,Refrigerator,Холодильник
+148,Freezer,Морозильник
+149,Dishwasher,Посудомоечная машина
+150,Sink,Раковина
+151,Countertop,Столешница
+152,Island,Островная кухня
+153,Cabinets,Кухонные шкафы
+154,Drawers,Кухонные ящики
+155,Pantry,Кладовая
+156,Cupboard,Буфет
+157,Canister,Контейнер
+158,Cutting Board,Разделочная доска
+159,Baking Sheet,Противень
+160,Mixing Bowl,Миска для смешивания
+161,Measuring Cups,Мерные чашки
+162,Measuring Spoons,Мерные ложки
+163,Baking Dish,Форма для выпечки
+164,Loaf Pan,Форма для хлеба
+165,Roasting Pan,Жаропрочная форма
+166,Pie Dish,Форма для пирога
+167,Cake Pan,Форма для торта
+168,Cookie Sheet,Противень для печенья
+169,Casserole Dish,Форма для запекания
+170,Pot,Кастрюля
+171,Pan,Сковорода
+172,Skillet,Сковорода
+173,Wok,Вок
+174,Dutch Oven,Горшок
+175,Grill Pan,Гриль-сковорода
+176,Saucepan,Ковш
+177,Stockpot,Суповар
+178,Teapot,Чайник
+179,Kettle,Чайник
+180,Cutting Board,Разделочная доска
+181,Knife Set,Набор ножей
+182,Knife Block,Держатель для ножей
+183,Paring Knife,Нож для чистки
+184,Chef's Knife,Поварской нож
+185,Serrated Knife,Зубчатый нож
+186,Bread Knife,Нож для хлеба
+187,Utility Knife,Универсальный нож
+188,Steak Knives,Стейковые ножи
+189,Santoku Knife,Нож сантоку
+190,Boning Knife,Нож для обвалки
+191,Fillet Knife,Филейный нож
+192,Carving Knife,Нож для нарезки
+193,Cleaver,Разделочный топорик
+194,Kitchen Shears,Кухонные ножницы
+195,Can Opener,Консервный нож
+196,Bottle Opener,Открывалка для бутылок
+197,Wine Opener,Открывалка для вина
+198,Peeler,Шелухач
+199,Grater,Терка
+200,Zester,Цедилка
+201,Colander,Дуршлаг
+202,Sieve,Сито
+203,Strainer,Фильтр
+204,Mixing Bowls,Миски для смешивания
+205,Measuring Cups,Мерные чашки
+206,Measuring Spoons,Мерные ложки
+207,Whisk,Венчик
+208,Spatula,Лопатка
+209,Turner,Поворотник
+210,Ladle,Щербетница
+211,Tongs,Пинцет
+212,Basting Brush,Кисть для запекания
+213,Pastry Brush,Кисть для выпечки
+214,Rolling Pin,Каток для теста
+215,Pastry Cutter,Каток для выпечки
+216,Pastry Board,Доска для выпечки
+217,Peppermill,Перечница
+218,Salt Shaker,Солонка
+219,Spice Rack,Подставка для специй
+220,Herb Grinder,Измельчитель трав
+221,Cutting Board,Разделочная доска
+222,Colander,Дуршлаг
+223,Saucepan,Ковш
+224,Stockpot,Суповар
+225,Steamer,Пароварка
+226,Double Boiler,Пароварка
+227,Rice Cooker,Рисоварка
+228,Slow Cooker,Мультиварка
+229,Pressure Cooker,Скороварка
+230,Frying Pan,Сковорода
+231,Skillet,Скороводка
+232,Wok,Вок
+233,Dutch Oven,Горшок
+234,Grill Pan,Гриль-сковородка
+235,Food Processor,Кухонный комбайн
+236,Blender,Блендер
+237,Hand Mixer,Ручной миксер
+238,Stand Mixer,Кухонный миксер
+239,Toaster,Тостер
+240,Toaster Oven,Электрическая духовка
+241,Microwave,Микроволновка
+242,Convection Oven,Конвекционная духовка
+243,Range,Плита с духовкой
+244,Oven,Духовка
+245,Hood,Вытяжка
+246,Refrigerator,Холодильник
+247,Freezer,Морозильник
+248,Wine Cooler,Винный холодильник
+249,Dishwasher,Посудомоечная машина
+250,Sink,Раковина
+251,Faucet,Кран
+252,Countertop,Столешница
+253,Island,Островная кухня
+254,Cabinets,Кухонные шкафы
+255,Drawers,Кухонные ящики
+256,Pantry,Кладовая
+257,Table,Стол
+258,Dining Table,Обеденный стол
+259,Chairs,Стулья
+260,Bar Stools,Барные стулья
+261,Buffet,Буфет
+262,Cabinet,Шкаф
+263,Hutch,Витрина
+264,China Cabinet,Стеллаж для посуды
+265,Sideboard,Буфетная тумба
+266,Buffet Table,Буфет
+267,Cart,Тележка
+268,Tray,Поднос
+269,Buffet Table,Буфет
+270,Bar Cart,Барная тележка
+271,Wine Rack,Винный стеллаж
+272,Wine Cabinet,Винный шкаф
+273,Bar Cabinet,Барный шкаф
+274,Place Setting,Постановка стола
+275,Flatware,Столовые приборы
+276,Cutlery,Столовые приборы
+277,Forks,Вилки
+278,Knives,Ножи
+279,Spoons,Ложки
+280,Teaspoons,Чайные ложки
+281,Tablespoons,Столовые ложки
+282,Salad Forks,Вилки для салата
+283,Dessert Spoons,Десертные ложки
+284,Butter Knives,Ножи для масла
+285,Steak Knives,Стейковые ножи
+286,Chopsticks,Палочки для еды
+287,Place Mat,Подставка под тарелку
+288,Placemat,Подставка под тарелку
+289,Coaster,Подставка под стакан
+290,Glass,Стакан для напитков
+291,Tumbler,Стакан
+292,Wine Glass,Бокал для вина
+293,Champagne Flute,Бокал для шампанского
+294,Martini Glass,Бокал для мартини
+295,Cocktail Glass,Бокал для коктейля
+296,Highball Glass,Бокал для хайбола
+297,Whiskey Glass,Бокал для виски
+298,Beer Mug,Пивная кружка
+299,Beer Stein,Пивной кувшин
+300,Coffee Mug,Кофейная кружка
